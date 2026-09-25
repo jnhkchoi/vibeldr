@@ -1,0 +1,371 @@
+{
+  "DS1019+": {
+    "middle": [
+      "QXR"
+    ],
+    "prefix": [
+      "1850",
+      "1880"
+    ],
+    "suffix": "numeric"
+  },
+  "DS1520+": {
+    "middle": [
+      "RYR"
+    ],
+    "prefix": [
+      "2060"
+    ],
+    "suffix": "alpha"
+  },
+  "DS1522+": {
+    "macpre": "9009d0",
+    "middle": [
+      "TRR"
+    ],
+    "prefix": [
+      "2270"
+    ],
+    "suffix": "alpha"
+  },
+  "DS1525+": {
+    "macpre": "9009d0",
+    "middle": [
+      "YJR"
+    ],
+    "prefix": [
+      "2540"
+    ],
+    "suffix": "alpha"
+  },
+  "DS1621+": {
+    "middle": [
+      "S7R"
+    ],
+    "prefix": [
+      "2080"
+    ],
+    "suffix": "alpha"
+  },
+  "DS1621xs+": {
+    "middle": [
+      "RVR"
+    ],
+    "prefix": [
+      "2070"
+    ],
+    "suffix": "alpha"
+  },
+  "DS1819+": {
+    "middle": [
+      "R5R"
+    ],
+    "prefix": [
+      "1890"
+    ],
+    "suffix": "alpha"
+  },
+  "DS1821+": {
+    "middle": [
+      "SKR"
+    ],
+    "prefix": [
+      "2110"
+    ],
+    "suffix": "alpha"
+  },
+  "DS1823xs+": {
+    "middle": [
+      "V5R"
+    ],
+    "prefix": [
+      "2280"
+    ],
+    "suffix": "alpha"
+  },
+  "DS1825+": {
+    "macpre": "9009d0",
+    "middle": [
+      "WDR"
+    ],
+    "prefix": [
+      "2540"
+    ],
+    "suffix": "alpha"
+  },
+  "DS224+": {
+    "middle": [
+      "WBR"
+    ],
+    "prefix": [
+      "2350"
+    ],
+    "suffix": "alpha"
+  },
+  "DS2419+": {
+    "middle": [
+      "QZA"
+    ],
+    "prefix": [
+      "1880"
+    ],
+    "suffix": "alpha"
+  },
+  "DS2422+": {
+    "middle": [
+      "SLR"
+    ],
+    "prefix": [
+      "2140",
+      "2180"
+    ],
+    "suffix": "alpha"
+  },
+  "DS3617xs": {
+    "middle": [
+      "ODN"
+    ],
+    "prefix": [
+      "1130",
+      "1230",
+      "1330",
+      "1430"
+    ],
+    "suffix": "numeric"
+  },
+  "DS3622xs+": {
+    "middle": [
+      "SQR"
+    ],
+    "prefix": [
+      "2150"
+    ],
+    "suffix": "alpha"
+  },
+  "DS423+": {
+    "middle": [
+      "VKR"
+    ],
+    "prefix": [
+      "22A0"
+    ],
+    "suffix": "alpha"
+  },
+  "DS425+": {
+    "macpre": "9009d0",
+    "middle": [
+      "YGR"
+    ],
+    "prefix": [
+      "2550"
+    ],
+    "suffix": "alpha"
+  },
+  "DS718+": {
+    "middle": [
+      "PEN"
+    ],
+    "prefix": [
+      "1930"
+    ],
+    "suffix": "numeric"
+  },
+  "DS720+": {
+    "middle": [
+      "QWR"
+    ],
+    "prefix": [
+      "2010",
+      "2110"
+    ],
+    "suffix": "alpha"
+  },
+  "DS918+": {
+    "middle": [
+      "PDN"
+    ],
+    "prefix": [
+      "1910"
+    ],
+    "suffix": "numeric"
+  },
+  "DS920+": {
+    "middle": [
+      "SBR"
+    ],
+    "prefix": [
+      "2030",
+      "2040",
+      "20C0",
+      "2150"
+    ],
+    "suffix": "alpha"
+  },
+  "DS923+": {
+    "macpre": "9009d0",
+    "middle": [
+      "TQR"
+    ],
+    "prefix": [
+      "2270"
+    ],
+    "suffix": "alpha"
+  },
+  "DS925+": {
+    "macpre": "9009d0",
+    "middle": [
+      "YHR"
+    ],
+    "prefix": [
+      "2520"
+    ],
+    "suffix": "alpha"
+  },
+  "DVA1622": {
+    "middle": [
+      "UBR"
+    ],
+    "prefix": [
+      "2030",
+      "2040",
+      "20C0",
+      "2150"
+    ],
+    "suffix": "alpha"
+  },
+  "DVA3219": {
+    "middle": [
+      "RFR"
+    ],
+    "prefix": [
+      "1930",
+      "1940"
+    ],
+    "suffix": "alpha"
+  },
+  "DVA3221": {
+    "middle": [
+      "SJR"
+    ],
+    "prefix": [
+      "2030",
+      "2040",
+      "20C0",
+      "2150"
+    ],
+    "suffix": "alpha"
+  },
+  "FS2500": {
+    "middle": [
+      "PSN"
+    ],
+    "prefix": [
+      "1960"
+    ],
+    "suffix": "numeric"
+  },
+  "FS6400": {
+    "middle": [
+      "XXX"
+    ],
+    "prefix": [
+      "0000"
+    ],
+    "suffix": "alpha"
+  },
+  "HD6500": {
+    "macpre": "9009d0",
+    "middle": [
+      "RUR"
+    ],
+    "prefix": [
+      "20A0",
+      "21C0"
+    ],
+    "suffix": "alpha"
+  },
+  "RS1221+": {
+    "middle": [
+      "RWR"
+    ],
+    "prefix": [
+      "20B0"
+    ],
+    "suffix": "alpha"
+  },
+  "RS1619xs+": {
+    "middle": [
+      "QPR"
+    ],
+    "prefix": [
+      "1920"
+    ],
+    "suffix": "alpha"
+  },
+  "RS2423RP+": {
+    "macpre": "9009d0",
+    "middle": [
+      "V3R"
+    ],
+    "prefix": [
+      "22B0"
+    ],
+    "suffix": "alpha"
+  },
+  "RS3621xs+": {
+    "middle": [
+      "SZR"
+    ],
+    "prefix": [
+      "20A0"
+    ],
+    "suffix": "alpha"
+  },
+  "RS4021xs+": {
+    "macpre": "9009d0",
+    "middle": [
+      "T2R"
+    ],
+    "prefix": [
+      "2160"
+    ],
+    "suffix": "alpha"
+  },
+  "SA3200D": {
+    "middle": [
+      "S4R"
+    ],
+    "prefix": [
+      "19A0"
+    ],
+    "suffix": "alpha"
+  },
+  "SA3400": {
+    "middle": [
+      "RJR"
+    ],
+    "prefix": [
+      "1970"
+    ],
+    "suffix": "alpha"
+  },
+  "SA3410": {
+    "macpre": "9009d0",
+    "middle": [
+      "UMR"
+    ],
+    "prefix": [
+      "2270"
+    ],
+    "suffix": "alpha"
+  },
+  "SA6400": {
+    "middle": [
+      "W8R"
+    ],
+    "prefix": [
+      "2350"
+    ],
+    "suffix": "alpha"
+  }
+}

@@ -1,0 +1,22 @@
+# 빌드 산출물
+/vibeldr
+/vibeldr.exe
+/build/
+
+# 작업 디렉터리 (수백 MB 의 .pat 캐시와 추출물)
+/work/
+
+# 다운로드된 마이크로코드 블롭 (수 MB 크기, upstream 에서 재취득 가능).
+# 트리에 커밋하지 않고 필요할 때만 스크립트로 채운다.
+/internal/image/microcode/intel-ucode/*.bin
+/internal/image/microcode/amd-ucode/*.bin
+
+# 에디터
+.vscode/
+.idea/
+*.swp
+
+# Go 빌드 캐시 (로컬 전용)
+/.gocache/
+/.tmp/
+
