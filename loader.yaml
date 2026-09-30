@@ -1,0 +1,57 @@
+# vibeldr loader configuration
+# This file is the only input to a build. Everything else is derived.
+# Docs: README.md
+
+version: 1
+model: DS3622xs+
+dsm:
+    version: 7.4.1-90080
+    url: https://global.synologydownload.com/download/DSM/release/7.4.1/90080/DSM_DS3622xs+_90080.pat
+    md5: de1634a7ff005befe77a62c294e541d6
+identity:
+    serial: ""
+    macs: []
+    nic_count: 1
+    force_mac: false
+boot:
+    kernel_panic: 5
+storage:
+    sata_portmap: ""
+    disk_idx_map: ""
+    sata_remap: ""
+    ncq: false
+    bay_order: []
+    bays: 0
+modules:
+    blacklist:
+        - evbug
+notify:
+    webhook_url: ""
+    email:
+        smtp: ""
+        from: ""
+        to: ""
+        username: ""
+        password: ""
+synoinfo:
+    buzzeroffen: "0xffff"
+    enableRCPower: "yes"
+    support_disk_compatibility: "yes"
+    support_fan: "no"
+    support_fan_adjust_dual_mode: "no"
+    support_led_brightness_adjustment: "no"
+    support_leds_atmega1608: "no"
+    support_leds_lp3943: "no"
+    support_memory_compatibility: "no"
+    support_memory_limitation: "no"
+    support_oob_ctl: "no"
+    support_printer: "yes"
+    support_uasp: "yes"
+    support_usb_printer: "yes"
+    supportadt7490: "no"
+    supportext4: "yes"
+cmdline: {}
+paths:
+    work: work
+    cache: work/cache
+    output: work/out

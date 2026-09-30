@@ -1,0 +1,21 @@
+# Build output
+# 빌드 산출물
+/vibeldr
+/vibeldr.exe
+/build/
+
+# Work directory (caches, downloads, images, archives)
+# 작업 디렉터리 (캐시·내려받은 것·이미지·보관본)
+/work/
+
+# Editors
+# 에디터
+.vscode/
+.idea/
+*.swp
+
+# Go build cache (local only)
+# Go 빌드 캐시 (로컬 전용)
+/.gocache/
+/.tmp/
+

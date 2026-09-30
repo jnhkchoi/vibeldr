@@ -1,0 +1,3 @@
+i386-pc BIOS (boot.img, core.img): grub-2.12-9+pmx2, Proxmox stock
+x86_64-efi (BOOTX64.EFI):          grub-2.14, Debian sid grub-efi-amd64-signed_1+2.14+3
+                                   (see fetch-efi.sh / README-EFI.md)
